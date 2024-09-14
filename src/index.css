@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+b{
+    font-weight: 600;
+    color: #00276b;
+}
+
